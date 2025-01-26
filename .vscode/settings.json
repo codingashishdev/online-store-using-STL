@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        ".gitignore.genai": "ignore",
+        "ctime": "cpp"
+    }
+}
